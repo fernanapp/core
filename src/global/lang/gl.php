@@ -580,7 +580,7 @@ $LANG["phrase_session_expired"] = "Session expired";
 $LANG["phrase_sessions_timeout"] = "Sesións Timeout";
 $LANG["phrase_setting_value"] = "Indicación Valor";
 $LANG["phrase_setup_options"] = "Opcións de configuración";
-$LANG["phrase_show_all"] = "Show All";
+$LANG["phrase_show_all"] = "Amosar todo";
 $LANG["phrase_show_form"] = "Amosar Form";
 $LANG["phrase_size_large"] = "Grande (TEXTO)";
 $LANG["phrase_size_medium"] = "Medio (&lt;= 256 caracteres)";
